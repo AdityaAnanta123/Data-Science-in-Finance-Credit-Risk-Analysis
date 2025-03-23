@@ -12,7 +12,7 @@ This project aims to analyze credit risk using a decision tree model. The main f
 The dataset used contains several key features, including:
 - **loan_duration_months**: Loan duration in months.
 - **number_of_dependents**: The number of dependents the loan applicant has.
-- **risk_rating**: The target variable, indicating the credit risk rating, categorized as `low`, `medium`, or `high`.
+- **risk_rating**: The target variable, indicating the credit risk rating, categorized as `1`, `2`, `3`, `4`, or `5`.
 
 ## Steps in the Analysis
 
@@ -42,6 +42,3 @@ The decision tree model effectively predicts credit risk ratings based on the av
 ## Future Work
 - **Experimenting with other machine learning algorithms**: Trying algorithms like Random Forest or XGBoost to see if there's an improvement in accuracy.
 - **Adding more features**: Including additional features such as income level, employment status, or credit history to improve the model's predictions.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
