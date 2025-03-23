@@ -1,7 +1,5 @@
 # Data-Science-in-Finance-Credit-Risk-Analysis
 
-# Project Explanation: Credit Risk Analysis Using Decision Tree Model
-
 This project aims to analyze credit risk using a decision tree model. The main focus of this analysis is to predict the credit risk rating for applicants based on certain features, such as loan duration and number of dependents. The dataset used consists of credit scoring data, which includes various financial attributes of the applicants.
 
 ## Project Objectives
